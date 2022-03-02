@@ -82,6 +82,10 @@ footer {
         margin-top: 2em;
     }
 
+    .message-box {
+        width: 50%;
+    }
+
     h1 {
         font-size: 64px;
     }
