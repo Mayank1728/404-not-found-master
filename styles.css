@@ -68,7 +68,7 @@ footer {
 }
 
 /* Write media query here */
-@media (min-width: 625px) {
+@media (min-width: 1025px) {
     img {
         width: 80%;
         min-width: 400px;
