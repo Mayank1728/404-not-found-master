@@ -1,6 +1,16 @@
 /* =========
 Typography 
 ============*/
+.heading {
+    height: 25px;
+    width: 133px;
+    left: 24px;
+    top: 20px;
+    font-weight: 700;
+    font-size: 24px;
+    font-family: 'Inconsolata', monospace;
+}
+
 body {
     font-family: 'Space Mono', monospace;
     margin: 0;
@@ -33,16 +43,6 @@ h1 {
     top: 407px;
 }
 
-.heading {
-    height: 25px;
-    width: 133px;
-    left: 24px;
-    top: 20px;
-    font-weight: 700;
-    font-size: 24px;
-    font-family: 'Inconsolata', monospace;
-}
-
 .message-box {
     width: 328px;
     left: 23px;
@@ -72,6 +72,7 @@ footer {
     font-weight: 500;
     color: #BDBDBD;
 }
+
 .user-name:hover,
 .user-name:focus {
     border-bottom: 5px solid #000f89;
