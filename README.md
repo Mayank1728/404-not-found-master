@@ -23,15 +23,8 @@
 ## Overview
 
   
-![Screenshot](/pDtt9MwzZt.png?raw=true "Screenshot")
-
-
-      
-          
-      
-
-  
-            
+![Screenshot](/pDtt9MwzZt.png?raw=true "Screenshot PC")
+![Screenshot](/firefox_BpYxG1izzK.png?raw=true "Screenshot Mobile")     
           
 
 ### Built With
