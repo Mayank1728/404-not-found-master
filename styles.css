@@ -1,0 +1,79 @@
+/* =========
+Typography 
+============*/
+body {
+    font-family: 'Space Mono', monospace;
+    margin: 0;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26.66px;
+}
+
+.container {
+    max-width: 450px;
+    margin: 30px auto;
+}
+
+img {
+    height: 238px;
+    width: 286px;
+    margin-left: 1.5em;
+    margin-top: 3.5em;
+}
+
+h1 {
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 71px;
+    letter-spacing: -0.035em;
+    height: 142px;
+    width: 350px;
+    left: 24px;
+    top: 407px;
+}
+
+.heading {
+    height: 25px;
+    width: 133px;
+    left: 24px;
+    top: 20px;
+    font-weight: 700;
+    font-size: 24px;
+    font-family: 'Inconsolata', monospace;
+}
+
+.message-box {
+    width: 328px;
+    left: 23px;
+    top: 579px;
+}
+
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    background: #333333;
+    color: #ffffff;
+    margin-top: 1em;
+    padding: 1em 2.3em;
+}
+
+footer {
+    font-family: 'Montserrat', sans-serif;
+    color: #BDBDBD;
+    margin-top: 3em;
+    margin-left: 1em;
+    font-weight: 700;
+
+}
+
+.user-name {
+    text-decoration: none;
+    font-weight: 500;
+    color: #BDBDBD;
+}
+.user-name:hover,
+.user-name:focus {
+    border-bottom: 5px solid #000f89;
+    color: #000f89;
+}
