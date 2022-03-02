@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://hopeful-bardeen-228f4a.netlify.app">
+    <a href="https://hopeful-bardeen-228f4a.netlify.app">
       Solution
     </a>
     <span> | </span>
@@ -22,7 +22,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 
 ### Built With
 
